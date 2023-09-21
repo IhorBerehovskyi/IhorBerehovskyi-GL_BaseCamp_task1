@@ -1,5 +1,5 @@
 SRC = client.cpp main.cpp
-OUTPUT = server
+OUTPUT = client
 
 ifdef _WIN32
 OUTPUT = client.exe
